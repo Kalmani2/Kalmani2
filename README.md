@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Muhammad Kalmani**
+# Hi, I'm **Muhammad Kalmani**
 
 ### 🎓 Final-Year Computer Science Student @ **University of Manchester**  
 ### Full-Stack Development | Machine Learning | Computer Vision  
@@ -8,7 +8,7 @@
 - Let's Connect: [**LinkedIn**](https://www.linkedin.com/in/muhammadkalmani/)
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 | **Category** | **Tools & Technologies** |
 |--------------|--------------------------|
@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalmani2&theme=tokyonight" height="160" />
